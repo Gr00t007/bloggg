@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "[PART 1] Getting Started with lsd "
-tags: [lsd]
+---
 
+## Introduction
 lsd
